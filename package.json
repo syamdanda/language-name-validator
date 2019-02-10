@@ -1,0 +1,23 @@
+{
+  "name": "language-name-validator",
+  "version": "0.0.1",
+  "description": "check whether the given value for language is actual language or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "language",
+    "validate",
+    "language",
+    "validator",
+    "language",
+    "checker",
+    "language",
+    "codeslanguage",
+    "name",
+    "validator"
+  ],
+  "author": "Syam Danda",
+  "license": "GPL-3.0"
+}
